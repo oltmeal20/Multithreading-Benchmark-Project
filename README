@@ -3,9 +3,9 @@ Multithreading Benchmark Project
 CompSci 371
 
 Used parts of the thead example and part of the time example provided for us from class.
-This project is basically an extensive modification of my open source project, which is
-a program that sorts a list of names. I used 100 names and copied and pasted them over 
-and over again until I had a huge list of names. 
+This program basically sorts a list of names in alphabetical order. I used 100 names and 
+copied and pasted them over and over again until I had a huge list of names so that we can
+see a better representaion of the impact of multiple threads.
 
 First, using a single thread, this program takes a list of names from the command line and 
 sorts them alphabetically. Then the program does the same thing again, but splits using four 
